@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2023-02-19 05:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-02-15 14:53:43 +0000"
@@ -527,15 +533,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2023-02-17 13:35:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2023-02-17 12:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2023-02-17 13:35:01 +0000"
     },
     "done": true
   },
@@ -1258,6 +1264,8 @@
       "minecraft:sparse_jungle": "2023-02-17 13:25:49 +0000",
       "minecraft:river": "2023-02-15 14:21:31 +0000",
       "minecraft:dripstone_caves": "2023-02-15 15:02:14 +0000",
+      "minecraft:grove": "2023-02-19 06:09:21 +0000",
+      "minecraft:jagged_peaks": "2023-02-19 06:09:12 +0000",
       "minecraft:forest": "2023-02-15 14:17:56 +0000",
       "minecraft:lush_caves": "2023-02-15 19:05:04 +0000",
       "minecraft:jungle": "2023-02-15 19:01:42 +0000",
@@ -2588,15 +2596,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2023-02-17 12:33:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2023-02-17 12:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-02-17 12:33:45 +0000"
     },
     "done": true
   },
